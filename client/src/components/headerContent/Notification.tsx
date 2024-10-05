@@ -18,7 +18,8 @@ const Notification = () => {
     {
       date: "12/31/2024",
       titile: "Notif titile",
-      announce: "Make beautiful websites regardless of your design experience.",
+      announce:
+        "Make beautiful websites regardless of your design expergience.",
     },
     {
       date: "12/31/2024",
